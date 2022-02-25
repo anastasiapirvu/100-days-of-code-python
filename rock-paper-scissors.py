@@ -36,7 +36,6 @@ human = int(input("What do you choose? Type 0 for Rock, 1 for Paper and 2 for Sc
 computer = random.randint(0, 2)
 
 
-#Assign rock paper scissors to nrs
 rock == 0
 paper == 1
 scissors == 2
